@@ -6,6 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 /**
  * Unit test for simple App.
+ * some comment 
  */
 public class AppTest
 {
